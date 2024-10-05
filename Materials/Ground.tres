@@ -1,0 +1,19 @@
+[gd_resource type="StandardMaterial3D" load_steps=6 format=3 uid="uid://bgv6qicjlnws6"]
+
+[ext_resource type="Texture2D" uid="uid://cmm26e5o3mvfj" path="res://Textures/Ground/Tiles130_4K-JPG_Color.jpg" id="1_1rwsj"]
+[ext_resource type="Texture2D" uid="uid://booo5tj3oxglw" path="res://Textures/Ground/Tiles130_4K-JPG_AmbientOcclusion.jpg" id="2_moikp"]
+[ext_resource type="Texture2D" uid="uid://dret55ctwuyfl" path="res://Textures/Ground/Tiles130_4K-JPG_Displacement.jpg" id="3_ut2fk"]
+[ext_resource type="Texture2D" uid="uid://cwf0klap430tv" path="res://Textures/Ground/Tiles130_4K-JPG_NormalGL.jpg" id="4_3doxr"]
+[ext_resource type="Texture2D" uid="uid://dvkhb0hei4elu" path="res://Textures/Ground/Tiles130_4K-JPG_Roughness.jpg" id="5_snp6t"]
+
+[resource]
+albedo_texture = ExtResource("1_1rwsj")
+roughness_texture = ExtResource("5_snp6t")
+normal_enabled = true
+normal_texture = ExtResource("4_3doxr")
+ao_enabled = true
+ao_texture = ExtResource("2_moikp")
+heightmap_enabled = true
+heightmap_texture = ExtResource("3_ut2fk")
+uv1_scale = Vector3(0.25, 0.25, 0.25)
+uv1_triplanar = true

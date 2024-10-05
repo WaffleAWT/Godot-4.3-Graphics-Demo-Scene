@@ -1,0 +1,71 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1728154468
+icon.svg::CompressedTexture2D::6671674081574685050::1728146447::1728146457::1::::<><>::
+LICENSE.txt::TextFile::-1::1728154288::0::1::::<><>::
+portal.tscn::PackedScene::4656350900422177823::1720727258::0::1::::<><>::uid://bjsameplji3p2::::res://Shaders/Portal/portal.tres<>uid://c3s7ynmac2h3l::::res://Assets/Textures/Particles/Portal/Circle.png<>uid://barn7ild78kbb::::res://Assets/Textures/Particles/Portal/Tile.png<>uid://cxuwacuagec1v::::res://Assets/Textures/Particles/Kenney Particles/spark_02.png<>uid://tpy07fa2bb3e::::res://Assets/Textures/Particles/Stylized Fire/Flare.PNG
+README.txt::TextFile::-1::1728154422::0::1::::<><>::
+stylized_fire.tscn::PackedScene::5365859504226935498::1728148793::0::1::::<><>::uid://c2j8nq22g24dk::::res://Shaders/Stylized Fire/stylized_fire.tres<>uid://cpk30ndss3s6h::::res://Textures/Stylized Fire/Voronoi.png<>uid://dhqsc6vyl3emc::::res://Textures/Stylized Fire/Flame.png<>uid://dpx8s5d20lyjg::::res://Textures/Stylized Fire/Flame 2.png<>uid://tpy07fa2bb3e::::res://Textures/Stylized Fire/Flare.PNG
+world.tscn::PackedScene::4939787039519188875::1728153517::0::1::::<><>::uid://bm4s7p7heyfvo::::res://Textures/Sky.png<>uid://bwou4sh8g7v0i::::res://Materials/Walls.tres<>uid://bgv6qicjlnws6::::res://Materials/Ground.tres<>uid://cs8io3wvl7ujr::::res://Materials/Wood.tres<>uid://8sl8oe1jksrq::::res://Materials/Gold.tres<>uid://q3swv3k0eaof::::res://Materials/Metal.tres<>uid://bjsameplji3p2::::res://Shaders/Portal/portal.tres<>uid://c3s7ynmac2h3l::::res://Textures/Portal/Circle.png<>uid://barn7ild78kbb::::res://Textures/Portal/Tile.png<>uid://tpy07fa2bb3e::::res://Textures/Stylized Fire/Flare.PNG<>uid://cipi6l6e8tpxy::::res://stylized_fire.tscn
+::res://Materials/::1728154444
+Gold.tres::StandardMaterial3D::2354118200447319482::1728147140::0::1::::<><>::uid://dural3e8gmni4::::res://Textures/Gold/Metal048C_4K-JPG_Color.jpg<>uid://dfv2lxeyq2bc6::::res://Textures/Gold/Metal048C_4K-JPG_Displacement.jpg<>uid://3npp5r17ggd0::::res://Textures/Gold/Metal048C_4K-JPG_Metalness.jpg<>uid://rx6ssfpoaids::::res://Textures/Gold/Metal048C_4K-JPG_NormalGL.jpg<>uid://b8h7lxc2swpv2::::res://Textures/Gold/Metal048C_4K-JPG_Roughness.jpg
+Ground.tres::StandardMaterial3D::2852816901535354899::1728148206::0::1::::<><>::uid://cmm26e5o3mvfj::::res://Textures/Ground/Tiles130_4K-JPG_Color.jpg<>uid://booo5tj3oxglw::::res://Textures/Ground/Tiles130_4K-JPG_AmbientOcclusion.jpg<>uid://dret55ctwuyfl::::res://Textures/Ground/Tiles130_4K-JPG_Displacement.jpg<>uid://cwf0klap430tv::::res://Textures/Ground/Tiles130_4K-JPG_NormalGL.jpg<>uid://dvkhb0hei4elu::::res://Textures/Ground/Tiles130_4K-JPG_Roughness.jpg
+Metal.tres::StandardMaterial3D::1181957415390692945::1728147145::0::1::::<><>::uid://bxdkibaceieuv::::res://Textures/Metal/Metal046B_4K-JPG_Color.jpg<>uid://ced30c5waffh7::::res://Textures/Metal/Metal046B_4K-JPG_Displacement.jpg<>uid://qtj032q2ns14::::res://Textures/Metal/Metal046B_4K-JPG_Metalness.jpg<>uid://dqo4hkwnc052t::::res://Textures/Metal/Metal046B_4K-JPG_NormalGL.jpg<>uid://bkrfwqy0keomi::::res://Textures/Metal/Metal046B_4K-JPG_Roughness.jpg
+Walls.tres::StandardMaterial3D::3960743617907825006::1728148206::0::1::::<><>::uid://bnj6op373ne7k::::res://Textures/Walls/Bricks091_4K-JPG_Color.jpg<>uid://baqlhsb2k2gya::::res://Textures/Walls/Bricks091_4K-JPG_AmbientOcclusion.jpg<>uid://11cr8uahllrq::::res://Textures/Walls/Bricks091_4K-JPG_Displacement.jpg<>uid://bauulnqw4vr1d::::res://Textures/Walls/Bricks091_4K-JPG_NormalGL.jpg<>uid://be0tgrn4bcydx::::res://Textures/Walls/Bricks091_4K-JPG_Roughness.jpg
+Wood.tres::StandardMaterial3D::6104877261421183843::1728147203::0::1::::<><>::uid://b5guo61t4cn11::::res://Textures/Wood/Wood051_4K-JPG_Color.jpg<>uid://bcaqjrgr1bs58::::res://Textures/Wood/Wood051_4K-JPG_Displacement.jpg<>uid://dcaa4p8sy57xa::::res://Textures/Wood/Wood051_4K-JPG_NormalGL.jpg<>uid://dyfsqtykov3ky::::res://Textures/Wood/Wood051_4K-JPG_Roughness.jpg
+::res://Models/::1728154444
+Scene.glb::PackedScene::256213790837678747::1728148582::1728148587::1::::<><>::
+Sword.glb::PackedScene::7125508849419015114::1711980078::1728149881::1::::<><>::
+::res://Shaders/::1728154444
+::res://Shaders/Portal/::1728154444
+portal.tres::VisualShader::3055300739312958073::1728151065::0::1::::<><>::
+::res://Shaders/Stylized Fire/::1728154444
+stylized_fire.tres::VisualShader::6688547304800862268::1728148757::0::1::::<><>::
+::res://Textures/::1728154445
+Sky.png::CompressedTexture2D::3289704651100312780::1584625093::1728147490::1::::<><>::
+::res://Textures/Gold/::1728154444
+Metal048C.png::CompressedTexture2D::6766013683168769954::1722774722::1728146737::1::::<><>::
+Metal048C_4K-JPG_Color.jpg::CompressedTexture2D::8598154467732816577::1722776548::1728146955::1::::<><>::
+Metal048C_4K-JPG_Displacement.jpg::CompressedTexture2D::7555218419971533759::1722781480::1728146986::1::::<><>::
+Metal048C_4K-JPG_Metalness.jpg::CompressedTexture2D::1993063677654260295::1722773658::1728146974::1::::<><>::
+Metal048C_4K-JPG_NormalDX.jpg::CompressedTexture2D::4703181607849943668::1722781596::1728146742::1::::<><>::
+Metal048C_4K-JPG_NormalGL.jpg::CompressedTexture2D::1242606355100547992::1722774600::1728146986::1::::<><>::
+Metal048C_4K-JPG_Roughness.jpg::CompressedTexture2D::4719066967906424273::1722775998::1728146993::1::::<><>::
+::res://Textures/Ground/::1728154444
+Tiles130.png::CompressedTexture2D::6830791128198929861::1693412544::1728146740::1::::<><>::
+Tiles130_4K-JPG_AmbientOcclusion.jpg::CompressedTexture2D::3398870408036973052::1693413134::1728146911::1::::<><>::
+Tiles130_4K-JPG_Color.jpg::CompressedTexture2D::5641574999618596839::1693413080::1728146861::1::::<><>::
+Tiles130_4K-JPG_Displacement.jpg::CompressedTexture2D::8361938680305402101::1693412914::1728146910::1::::<><>::
+Tiles130_4K-JPG_NormalDX.jpg::CompressedTexture2D::4242751864510425247::1693413112::1728146743::1::::<><>::
+Tiles130_4K-JPG_NormalGL.jpg::CompressedTexture2D::6328854177429690767::1693413190::1728146910::1::::<><>::
+Tiles130_4K-JPG_Roughness.jpg::CompressedTexture2D::8654299673852812866::1693412674::1728146919::1::::<><>::
+::res://Textures/Metal/::1728154445
+Metal046B.png::CompressedTexture2D::6892522363505745::1691916802::1728146742::1::::<><>::
+Metal046B_4K-JPG_Color.jpg::CompressedTexture2D::4007578729528815117::1691916858::1728147027::1::::<><>::
+Metal046B_4K-JPG_Displacement.jpg::CompressedTexture2D::5061534748236209034::1691916940::1728147055::1::::<><>::
+Metal046B_4K-JPG_Metalness.jpg::CompressedTexture2D::1162837286445278257::1691916850::1728147033::1::::<><>::
+Metal046B_4K-JPG_NormalDX.jpg::CompressedTexture2D::8983925019939275599::1691916992::1728146734::1::::<><>::
+Metal046B_4K-JPG_NormalGL.jpg::CompressedTexture2D::8312958691005769897::1691916978::1728147048::1::::<><>::
+Metal046B_4K-JPG_Roughness.jpg::CompressedTexture2D::3123747292920512184::1691917010::1728147039::1::::<><>::
+::res://Textures/Portal/::1728154445
+Circle.png::CompressedTexture2D::6777274292991376983::1720278261::1728150549::1::::<><>::
+Tile.png::CompressedTexture2D::2422362009183065331::1720278413::1728150549::1::::<><>::
+::res://Textures/Stylized Fire/::1728154445
+Flame 2.png::CompressedTexture2D::8261612780640288032::1696259226::1728148344::1::::<><>::
+Flame.png::CompressedTexture2D::7684712139839095034::1696168847::1728148344::1::::<><>::
+Flare.PNG::CompressedTexture2D::1366057236614878648::1515583555::1728148344::1::::<><>::
+Voronoi.png::CompressedTexture2D::5848063208423348205::1691345065::1728148344::1::::<><>::
+::res://Textures/Walls/::1728154445
+Bricks091.png::CompressedTexture2D::8634268491468346819::1709743304::1728146730::1::::<><>::
+Bricks091_4K-JPG_AmbientOcclusion.jpg::CompressedTexture2D::2420132063442118624::1709743462::1728147121::1::::<><>::
+Bricks091_4K-JPG_Color.jpg::CompressedTexture2D::3319363111261132418::1709743402::1728147101::1::::<><>::
+Bricks091_4K-JPG_Displacement.jpg::CompressedTexture2D::1878737312852755398::1709743458::1728147129::1::::<><>::
+Bricks091_4K-JPG_NormalDX.jpg::CompressedTexture2D::8539961464990256323::1709743522::1728146736::1::::<><>::
+Bricks091_4K-JPG_NormalGL.jpg::CompressedTexture2D::2428942930922181235::1709743446::1728147115::1::::<><>::
+Bricks091_4K-JPG_Roughness.jpg::CompressedTexture2D::2719950754021197149::1709743424::1728147108::1::::<><>::
+::res://Textures/Wood/::1728154445
+Wood051.png::CompressedTexture2D::7644467817912473389::1691864048::1728146734::1::::<><>::
+Wood051_4K-JPG_Color.jpg::CompressedTexture2D::4505713269619319682::1691864200::1728147173::1::::<><>::
+Wood051_4K-JPG_Displacement.jpg::CompressedTexture2D::2527786817971560365::1691864302::1728147199::1::::<><>::
+Wood051_4K-JPG_NormalDX.jpg::CompressedTexture2D::891628654062067132::1691864206::1728146740::1::::<><>::
+Wood051_4K-JPG_NormalGL.jpg::CompressedTexture2D::7299692366058534398::1691864170::1728147192::1::::<><>::
+Wood051_4K-JPG_Roughness.jpg::CompressedTexture2D::8855238701227533732::1691864218::1728147187::1::::<><>::
